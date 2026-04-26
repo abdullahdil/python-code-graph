@@ -69,7 +69,7 @@ The webview is built with a focus on "Premium Aesthetics":
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/python-code-graph.git
+   git clone https://github.com/abdullahdil/python-code-graph.git
    ```
 2. **Open in VS Code**:
    ```bash
