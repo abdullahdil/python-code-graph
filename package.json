@@ -1,0 +1,37 @@
+{
+  "name": "python-code-graph",
+  "displayName": "Python Code Graph",
+  "description": "Visualize Python codebases as an interactive graph of files, classes, functions, and calls.",
+  "version": "0.0.1",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Visualization",
+    "Programming Languages",
+    "Other"
+  ],
+  "keywords": [
+    "python",
+    "graph",
+    "codebase",
+    "visualization",
+    "call-graph"
+  ],
+  "activationEvents": [
+    "onCommand:pythonCodeGraph.openGraph"
+  ],
+  "main": "./src/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "pythonCodeGraph.openGraph",
+        "title": "Python Code Graph: Open Graph"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "echo 'No lint configured'"
+  }
+}

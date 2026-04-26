@@ -1,0 +1,8 @@
+node_modules/
+out/
+dist/
+*.log
+.vscode-test/
+vsc-extension-quickstart.md
+.DS_Store
+.vscode/
