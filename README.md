@@ -8,15 +8,10 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-> [!TIP]
-> Place your project screenshots in the `/screenshots` directory to showcase the extension in action.
-
-| Visualization | Analysis Panel |
-| :---: | :---: |
-| ![Graph View](screenshots/graph_view.png) | ![Analysis Panel](screenshots/analysis_panel.png) |
-| *Interactive Architectural Map* | *Deep Contextual Analysis* |
+![Graph View](screenshots/graph_view.png)
+*Interactive Architectural Map of your codebase*
 
 ---
 
